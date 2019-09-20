@@ -19,5 +19,6 @@ def find_the_cheese(array)
     "cheddar"
   else
     nil
+  end
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
